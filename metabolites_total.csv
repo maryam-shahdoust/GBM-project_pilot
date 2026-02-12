@@ -1,0 +1,538 @@
+﻿case1,case2,case3,case4
+5-Hydroxylysine,5-Hydroxylysine,7-Methylguanine,5-Methyluridine
+alpha-Aminobutyric acid,alpha-Aminobutyric acid,alpha-Aminobutyric acid,7-Methylguanine
+Adenosine,Adenosine,Adenosine,alpha-Aminobutyric acid
+Asymmetric dimethylarginine,Asymmetric dimethylarginine,Asymmetric dimethylarginine,Adenosine
+Agmatine,Agmatine,Alanine,Asymmetric dimethylarginine
+Alanine,Alanine,Allantoin,Alanine
+Arginine,Arginine,Arginine,Allantoin
+Asparagine,Asparagine,Asparagine,Arginine
+Aspartic acid,Aspartic acid,Aspartic acid,Asparagine
+beta-Alanine,beta-Alanine,beta-Alanine,Aspartic acid
+Betaine,Betaine,Betaine,beta-Alanine
+Choline,Choline,Choline,Betaine
+Citrulline,Citrulline,Citrulline,Choline
+Creatine,Creatine,Creatine,Citrulline
+Creatinine,Creatinine,Creatinine,Creatine
+Ethanolamine,Ethanolamine,Ethanolamine,Creatinine
+Glutamine,Glutamine,Glutamine,Ethanolamine
+Glutamic acid,Glutamic acid,Glutamic acid,Glutamine
+Glycine,Glycine,Glycine,Glutamic acid
+Guanine,Guanine,Guanine,Glycine
+Guanosine,Guanosine,Histidine,Guanine
+Histidine,Histidine,Homoarginine,Histidine
+Homoarginine,Homoarginine,Hypoxanthine,Homoarginine
+Hypoxanthine,Hypoxanthine,Isoleucine,Hypoxanthine
+Isoleucine,Isoleucine,Indole,Isoleucine
+Indole,Indole,Kynurenine,Indole
+Kynurenine,Kynurenine,Leucine,Kynurenine
+Leucine,Leucine,Lysine,Leucine
+Lysine,Lysine,Methionine,Lysine
+Methionine,Methionine,Methionine sulfoxide,Methionine
+Methionine sulfoxide,Methionine sulfoxide,Methylhistidine,Methionine sulfoxide
+Methylhistidine,Methylhistidine,N1-Acetylspermidine,Methylhistidine
+N1-Acetylspermidine,N1-Acetylspermidine,N-Acetylputrescine,N1-Acetylspermidine
+N-Acetylputrescine,N-Acetylputrescine,Nudifloramide,N-Acetylputrescine
+Nudifloramide,Nudifloramide,Ornithine,Nudifloramide
+Ornithine,Ornithine,Phenylalanine,Ornithine
+Phenylalanine,Phenylalanine,Proline,Phenylalanine
+Proline,Proline,Sarcosine,Proline
+Sarcosine,Sarcosine,Serine,Putrescine
+Serine,Serine,Taurine,Sarcosine
+Taurine,Taurine,Threonine,Serine
+Threonine,Threonine,Thymidine,Taurine
+Thymidine,Thymidine,Trimethylamine N-Oxide,Threonine
+Trimethylamine N-Oxide,Trimethylamine N-Oxide,trans-4-Hydroxyproline,Thymidine
+trans-4-Hydroxyproline,trans-4-Hydroxyproline,Tryptophan,Trimethylamine N-Oxide
+Tryptophan,Tryptophan,Tyrosine,trans-4-Hydroxyproline
+Tyrosine,Tyrosine,Uridine,Tryptophan
+Uridine,Uridine,Valine,Tyrosine
+Valine,Valine,Urea,Uridine
+Urea,Urea,Glucose,Valine
+Glucose,Glucose,LysoPC a C14:0,Urea
+LysoPC a C14:0,LysoPC a C14:0,LysoPC a C16:1,Glucose
+LysoPC a C16:1,LysoPC a C16:1,LysoPC a C16:0,LysoPC a C14:0
+LysoPC a C16:0,LysoPC a C16:0,LysoPC a C17:0,LysoPC a C16:1
+LysoPC a C17:0,LysoPC a C17:0,LysoPC a C18:2,LysoPC a C16:0
+LysoPC a C18:2,LysoPC a C18:2,LysoPC a C18:1,LysoPC a C17:0
+LysoPC a C18:1,LysoPC a C18:1,LysoPC a C18:0,LysoPC a C18:2
+LysoPC a C18:0,LysoPC a C18:0,LysoPC a C20:4,LysoPC a C18:1
+LysoPC a C20:4,LysoPC a C20:4,LysoPC a C20:3,LysoPC a C18:0
+LysoPC a C20:3,LysoPC a C20:3,LysoPC a C24:0,LysoPC a C20:4
+LysoPC a C24:0,LysoPC a C24:0,LysoPC a C26:1,LysoPC a C20:3
+LysoPC a C26:1,LysoPC a C26:1,LysoPC a C26:0,LysoPC a C24:0
+LysoPC a C26:0,LysoPC a C26:0,LysoPC a C28:1,LysoPC a C26:1
+LysoPC a C28:1,LysoPC a C28:1,LysoPC a C28:0,LysoPC a C26:0
+LysoPC a C28:0,LysoPC a C28:0,SM(OH) C14:1,LysoPC a C28:1
+SM(OH) C14:1,SM(OH) C14:1,SM C16:1,LysoPC a C28:0
+SM C16:1,SM C16:1,SM C16:0,SM(OH) C14:1
+SM C16:0,SM C16:0,SM(OH) C16:1,SM C16:1
+SM(OH) C16:1,SM(OH) C16:1,SM C18:1,SM C16:0
+SM C18:1,SM C18:1,PC aa C32:2,SM(OH) C16:1
+PC aa C32:2,PC aa C32:2,SM C18:0,SM C18:1
+SM C18:0,SM C18:0,SM C20:2,PC aa C32:2
+SM C20:2,SM C20:2,PC ae C36:0,SM C18:0
+PC ae C36:0,PC ae C36:0,PC aa C36:6,SM C20:2
+PC aa C36:6,PC aa C36:6,PC aa C36:0,PC ae C36:0
+PC aa C36:0,PC aa C36:0,SM(OH) C22:2,PC aa C36:6
+SM(OH) C22:2,SM(OH) C22:2,SM(OH) C22:1,PC aa C36:0
+SM(OH) C22:1,SM(OH) C22:1,PC aa C38:6,SM(OH) C22:2
+PC aa C38:6,PC aa C38:6,PC aa C38:0,SM(OH) C22:1
+PC aa C38:0,PC aa C38:0,PC ae C40:6,PC aa C38:6
+PC ae C40:6,PC ae C40:6,SM(OH) C24:1,PC aa C38:0
+SM(OH) C24:1,SM(OH) C24:1,PC aa C40:6,PC ae C40:6
+PC aa C40:6,PC aa C40:6,PC aa C40:2,SM(OH) C24:1
+PC aa C40:2,PC aa C40:2,PC aa C40:1,PC aa C40:6
+PC aa C40:1,PC aa C40:1,C0,PC aa C40:2
+C0,C0,C2,PC aa C40:1
+C2,C2,C3,C0
+C3:1,C3:1,C4:1,C2
+C3,C3,C4,C3:1
+C4:1,C4:1,C5:1,C3
+C4,C4,C5,C4:1
+C5:1,C5:1,C4OH,C4
+C5,C5,C6:1,C5:1
+C4OH,C4OH,C5OH,C5
+C6:1,C6:1,C8,C4OH
+C5OH,C5OH,C9,C6:1
+C5DC,C5:1DC,C7DC,C5OH
+C8,C5DC,C10:2,C5:1DC
+C9,C8,C14,C5DC
+C7DC,C5MDC,C12DC,C8
+C10:2,C9,C16,C5MDC
+C10,C7DC,C18:1,C9
+C14,C10:2,PC aa C24:0,C7DC
+C16,C10,PC aa C26:0,C10:2
+C18:2,C12,PC aa C28:1,C10
+C18:1,C14,PC ae C30:2,C12
+PC aa C24:0,C16:1,PC ae C30:1,C14:2
+PC aa C26:0,C16,PC ae C30:0,C14
+PC aa C28:1,C18:2,PC aa C30:0,C12DC
+PC ae C30:2,C18:1,PC ae C32:2,C16:1
+PC ae C30:1,PC aa C24:0,PC ae C32:1,C16
+PC ae C30:0,PC aa C26:0,PC aa C32:3,C18:2
+PC aa C30:0,PC aa C28:1,PC aa C32:1,C18:1
+PC ae C32:2,PC ae C30:2,PC aa C32:0,C18
+PC ae C32:1,PC ae C30:1,PC ae C34:3,PC aa C24:0
+PC aa C32:3,PC ae C30:0,PC ae C34:2,PC aa C26:0
+PC aa C32:1,PC aa C30:0,PC ae C34:1,PC aa C28:1
+PC aa C32:0,PC ae C32:2,PC ae C34:0,PC ae C30:2
+PC ae C34:3,PC ae C32:1,PC aa C34:4,PC ae C30:1
+PC ae C34:2,PC aa C32:3,PC aa C34:3,PC ae C30:0
+PC ae C34:1,PC aa C32:1,PC aa C34:2,PC aa C30:0
+PC ae C34:0,PC aa C32:0,PC aa C34:1,PC ae C32:2
+PC aa C34:4,PC ae C34:3,PC ae C36:5,PC ae C32:1
+PC aa C34:3,PC ae C34:2,PC ae C36:4,PC aa C32:3
+PC aa C34:2,PC ae C34:1,PC ae C36:3,PC aa C32:1
+PC aa C34:1,PC ae C34:0,PC ae C36:2,PC aa C32:0
+PC ae C36:5,PC aa C34:4,PC ae C36:1,PC ae C34:3
+PC ae C36:4,PC aa C34:3,PC aa C36:5,PC ae C34:2
+PC ae C36:3,PC aa C34:2,PC aa C36:4,PC ae C34:1
+PC ae C36:2,PC aa C34:1,PC aa C36:3,PC ae C34:0
+PC ae C36:1,PC ae C36:5,PC aa C36:2,PC aa C34:4
+PC aa C36:5,PC ae C36:4,PC aa C36:1,PC aa C34:3
+PC aa C36:4,PC ae C36:3,PC ae C38:6,PC aa C34:2
+PC aa C36:3,PC ae C36:2,PC ae C38:5,PC aa C34:1
+PC aa C36:2,PC ae C36:1,PC ae C38:4,PC ae C36:5
+PC aa C36:1,PC aa C36:5,PC ae C38:3,PC ae C36:4
+PC ae C38:6,PC aa C36:4,PC ae C38:2,PC ae C36:3
+PC ae C38:5,PC aa C36:3,PC ae C38:1,PC ae C36:2
+PC ae C38:4,PC aa C36:2,PC ae C38:0,PC ae C36:1
+PC ae C38:3,PC aa C36:1,PC aa C38:5,PC aa C36:5
+PC ae C38:2,PC ae C38:6,PC aa C38:4,PC aa C36:4
+PC ae C38:1,PC ae C38:5,PC aa C38:3,PC aa C36:3
+PC ae C38:0,PC ae C38:4,SM C24:1,PC aa C36:2
+PC aa C38:5,PC ae C38:3,SM C24:0,PC aa C36:1
+PC aa C38:4,PC ae C38:2,PC aa C38:1,PC ae C38:6
+PC aa C38:3,PC ae C38:1,PC ae C40:5,PC ae C38:5
+SM C24:1,PC ae C38:0,PC ae C40:4,PC ae C38:4
+SM C24:0,PC aa C38:5,PC ae C40:3,PC ae C38:3
+PC aa C38:1,PC aa C38:4,PC ae C40:2,PC ae C38:2
+PC ae C40:5,PC aa C38:3,PC ae C40:1,PC ae C38:1
+PC ae C40:4,SM C24:1,PC aa C40:5,PC ae C38:0
+PC ae C40:3,SM C24:0,PC aa C40:4,PC aa C38:5
+PC ae C40:2,PC aa C38:1,PC aa C40:3,PC aa C38:4
+PC ae C40:1,PC ae C40:5,SM C26:1,PC aa C38:3
+PC aa C40:5,PC ae C40:4,SM C26:0,SM C24:1
+PC aa C40:4,PC ae C40:3,PC ae C42:5,SM C24:0
+PC aa C40:3,PC ae C40:2,PC ae C42:4,PC aa C38:1
+SM C26:1,PC ae C40:1,PC ae C42:3,PC ae C40:5
+SM C26:0,PC aa C40:5,PC ae C42:2,PC ae C40:4
+PC ae C42:5,PC aa C40:4,PC ae C42:1,PC ae C40:3
+PC ae C42:4,PC aa C40:3,PC ae C42:0,PC ae C40:2
+PC ae C42:3,SM C26:1,PC aa C42:6,PC ae C40:1
+PC ae C42:2,SM C26:0,PC aa C42:5,PC aa C40:5
+PC ae C42:1,PC ae C42:5,PC aa C42:4,PC aa C40:4
+PC ae C42:0,PC ae C42:4,PC aa C42:2,PC aa C40:3
+PC aa C42:6,PC ae C42:3,PC aa C42:1,SM C26:1
+PC aa C42:5,PC ae C42:2,PC aa C42:0,SM C26:0
+PC aa C42:4,PC ae C42:1,PC ae C44:6,PC ae C42:5
+PC aa C42:2,PC ae C42:0,PC ae C44:5,PC ae C42:4
+PC aa C42:1,PC aa C42:6,PC ae C44:4,PC ae C42:3
+PC aa C42:0,PC aa C42:5,PC ae C44:3,PC ae C42:2
+PC ae C44:6,PC aa C42:4,Cer(d16:1/22:0),PC ae C42:1
+PC ae C44:5,PC aa C42:2,Cer(d18:1/16:0),PC ae C42:0
+PC ae C44:4,PC aa C42:1,Cer(d18:1/18:0),PC aa C42:6
+PC ae C44:3,PC aa C42:0,Cer(d18:1/22:0),PC aa C42:5
+Cer(d16:1/18:0),PC ae C44:6,Cer(d18:1/23:0),PC aa C42:4
+Cer(d16:1/22:0),PC ae C44:5,Cer(d18:1/24:0),PC aa C42:2
+Cer(d16:1/24:0),PC ae C44:4,Cer(d18:1/24:1),PC aa C42:1
+Cer(d18:1/16:0),PC ae C44:3,Cer(d18:2/22:0),PC aa C42:0
+Cer(d18:1/18:0),Cer(d16:1/20:0),Cer(d18:2/24:0),PC ae C44:6
+Cer(d18:1/22:0),Cer(d16:1/22:0),Cer(d18:2/24:1),PC ae C44:5
+Cer(d18:1/23:0),Cer(d16:1/24:0),Cer(d18:0/22:0),PC ae C44:4
+Cer(d18:1/24:0),Cer(d18:1/16:0),Cer(d18:0/24:1),PC ae C44:3
+Cer(d18:1/24:1),Cer(d18:1/18:0),CE(14:0),Cer(d16:1/20:0)
+Cer(d18:2/22:0),Cer(d18:1/22:0),CE(16:0),Cer(d16:1/22:0)
+Cer(d18:2/24:0),Cer(d18:1/23:0),CE(16:1),Cer(d16:1/24:0)
+Cer(d18:2/24:1),Cer(d18:1/24:0),CE(18:0),Cer(d18:1/16:0)
+CE(14:0),Cer(d18:1/24:1),CE(18:1),Cer(d18:1/18:0)
+CE(16:0),Cer(d18:1/25:0),CE(18:2),Cer(d18:1/22:0)
+CE(16:1),Cer(d18:2/22:0),CE(18:3),Cer(d18:1/23:0)
+CE(17:0),Cer(d18:2/24:0),CE(20:3),Cer(d18:1/24:0)
+CE(17:1),Cer(d18:2/24:1),CE(20:4),Cer(d18:1/24:1)
+CE(18:0),Cer(d18:0/24:0),CE(20:5),Cer(d18:1/25:0)
+CE(18:1),Cer(d18:0/24:1),CE(22:5),Cer(d18:2/22:0)
+CE(18:2),CE(14:0),CE(22:6),Cer(d18:2/24:0)
+CE(18:3),CE(15:1),DG(14:0_18:2),Cer(d18:2/24:1)
+CE(20:3),CE(16:0),DG(14:0_20:0),Cer(d18:0/20:0)
+CE(20:4),CE(16:1),DG(16:0_16:0),Cer(d18:0/22:0)
+CE(20:5),CE(17:0),DG(16:0_16:1),Cer(d18:0/24:0)
+CE(22:5),CE(17:1),DG(16:0_18:1),Cer(d18:0/24:1)
+CE(22:6),CE(18:0),DG(16:0_18:2),CE(14:0)
+DG(14:0_18:1),CE(18:1),DG(16:0_20:0),CE(14:1)
+DG(14:0_18:2),CE(18:2),DG(16:1_18:1),CE(15:0)
+DG(14:0_20:0),CE(18:3),DG(16:1_18:2),CE(15:1)
+DG(16:0_16:0),CE(20:0),DG(16:1_20:0),CE(16:0)
+DG(16:0_16:1),CE(20:1),DG(17:0_17:1),CE(16:1)
+DG(16:0_18:1),CE(20:3),DG(17:0_18:1),CE(17:0)
+DG(16:0_18:2),CE(20:4),DG(18:0_20:0),CE(17:1)
+DG(16:0_20:0),CE(20:5),DG(18:1_18:1),CE(18:0)
+DG(16:1_18:1),CE(22:0),DG(18:1_18:2),CE(18:1)
+DG(16:1_18:2),CE(22:5),DG(18:1_18:3),CE(18:2)
+DG(16:1_20:0),CE(22:6),DG(18:1_20:3),CE(18:3)
+DG(17:0_17:1),DG(14:0_18:1),DG(18:1_20:4),CE(20:0)
+DG(17:0_18:1),DG(14:0_18:2),DG(18:1_22:6),CE(20:1)
+DG(18:0_20:0),DG(14:0_20:0),DG(18:2_18:2),CE(20:3)
+DG(18:1_18:1),DG(16:0_16:0),Hex2Cer(d18:1/14:0),CE(20:4)
+DG(18:1_18:2),DG(16:0_16:1),Hex2Cer(d18:1/16:0),CE(20:5)
+DG(18:1_18:3),DG(16:0_18:1),Hex2Cer(d18:1/18:0),CE(22:0)
+DG(18:1_20:3),DG(16:0_18:2),Hex2Cer(d18:1/20:0),CE(22:5)
+DG(18:1_20:4),DG(16:0_20:0),Hex2Cer(d18:1/22:0),CE(22:6)
+DG(18:1_22:6),DG(16:1_18:1),Hex2Cer(d18:1/24:0),DG(14:0_18:1)
+DG(18:2_18:2),DG(16:1_18:2),Hex2Cer(d18:1/24:1),DG(14:0_18:2)
+Hex2Cer(d18:1/14:0),DG(16:1_20:0),Hex3Cer(d18:1/16:0),DG(14:0_20:0)
+Hex2Cer(d18:1/16:0),DG(17:0_17:1),Hex3Cer(d18:1/18:0),DG(16:0_16:0)
+Hex2Cer(d18:1/18:0),DG(17:0_18:1),Hex3Cer(d18:1/24:1),DG(16:0_16:1)
+Hex2Cer(d18:1/20:0),DG(18:0_20:0),Hex3Cer(d18:1_22:0),DG(16:0_18:1)
+Hex2Cer(d18:1/22:0),DG(18:1_18:1),HexCer(d16:1/22:0),DG(16:0_18:2)
+Hex2Cer(d18:1/24:0),DG(18:1_18:2),HexCer(d18:1/16:0),DG(16:0_20:0)
+Hex2Cer(d18:1/24:1),DG(18:1_18:3),HexCer(d18:1/18:0),DG(16:1_18:1)
+Hex3Cer(d18:1/16:0),DG(18:1_20:3),HexCer(d18:1/18:1),DG(16:1_18:2)
+Hex3Cer(d18:1/18:0),DG(18:1_20:4),HexCer(d18:1/20:0),DG(16:1_20:0)
+Hex3Cer(d18:1/24:1),DG(18:1_22:6),HexCer(d18:1/22:0),DG(17:0_17:1)
+Hex3Cer(d18:1_22:0),DG(18:2_18:2),HexCer(d18:1/23:0),DG(17:0_18:1)
+HexCer(d16:1/22:0),Hex2Cer(d18:1/14:0),HexCer(d18:1/24:0),DG(18:1_18:1)
+HexCer(d18:1/16:0),Hex2Cer(d18:1/16:0),HexCer(d18:1/24:1),DG(18:1_18:2)
+HexCer(d18:1/18:0),Hex2Cer(d18:1/18:0),HexCer(d18:1/26:0),DG(18:1_18:3)
+HexCer(d18:1/18:1),Hex2Cer(d18:1/20:0),HexCer(d18:1/26:1),DG(18:1_20:3)
+HexCer(d18:1/20:0),Hex2Cer(d18:1/22:0),HexCer(d18:2/16:0),DG(18:1_20:4)
+HexCer(d18:1/22:0),Hex2Cer(d18:1/24:0),HexCer(d18:2/18:0),DG(18:1_22:6)
+HexCer(d18:1/23:0),Hex2Cer(d18:1/24:1),HexCer(d18:2/20:0),DG(18:2_18:2)
+HexCer(d18:1/24:0),Hex3Cer(d18:1/16:0),HexCer(d18:2/22:0),Hex2Cer(d18:1/14:0)
+HexCer(d18:1/24:1),Hex3Cer(d18:1/18:0),HexCer(d18:2/23:0),Hex2Cer(d18:1/16:0)
+HexCer(d18:1/26:0),Hex3Cer(d18:1/24:1),HexCer(d18:2/24:0),Hex2Cer(d18:1/18:0)
+HexCer(d18:1/26:1),Hex3Cer(d18:1_22:0),TG(14:0_36:2),Hex2Cer(d18:1/20:0)
+HexCer(d18:2/16:0),HexCer(d16:1/22:0),TG(14:0_36:3),Hex2Cer(d18:1/22:0)
+HexCer(d18:2/18:0),HexCer(d18:1/16:0),TG(14:0_36:4),Hex2Cer(d18:1/24:0)
+HexCer(d18:2/20:0),HexCer(d18:1/18:0),TG(14:0_38:4),Hex2Cer(d18:1/24:1)
+HexCer(d18:2/22:0),HexCer(d18:1/18:1),TG(14:0_38:5),Hex3Cer(d18:1/16:0)
+HexCer(d18:2/23:0),HexCer(d18:1/20:0),TG(16:0_32:3),Hex3Cer(d18:1/18:0)
+HexCer(d18:2/24:0),HexCer(d18:1/22:0),TG(16:0_34:1),Hex3Cer(d18:1/24:1)
+TG(14:0_32:2),HexCer(d18:1/23:0),TG(16:0_34:2),HexCer(d16:1/22:0)
+TG(14:0_34:0),HexCer(d18:1/24:0),TG(16:0_34:3),HexCer(d18:1/16:0)
+TG(14:0_34:1),HexCer(d18:1/24:1),TG(16:0_34:4),HexCer(d18:1/18:0)
+TG(14:0_34:2),HexCer(d18:1/26:0),TG(16:0_35:3),HexCer(d18:1/18:1)
+TG(14:0_34:3),HexCer(d18:1/26:1),TG(16:0_36:2),HexCer(d18:1/20:0)
+TG(14:0_35:2),HexCer(d18:2/16:0),TG(16:0_36:3),HexCer(d18:1/22:0)
+TG(14:0_36:1),HexCer(d18:2/18:0),TG(16:0_36:4),HexCer(d18:1/23:0)
+TG(14:0_36:2),HexCer(d18:2/20:0),TG(16:0_36:5),HexCer(d18:1/24:0)
+TG(14:0_36:3),HexCer(d18:2/22:0),TG(16:0_36:6),HexCer(d18:1/24:1)
+TG(14:0_36:4),HexCer(d18:2/23:0),TG(16:0_38:2),HexCer(d18:1/26:0)
+TG(14:0_38:4),HexCer(d18:2/24:0),TG(16:0_38:3),HexCer(d18:1/26:1)
+TG(14:0_38:5),TG(14:0_32:2),TG(16:0_38:4),HexCer(d18:2/16:0)
+TG(16:0_28:2),TG(14:0_34:0),TG(16:0_38:5),HexCer(d18:2/18:0)
+TG(16:0_30:2),TG(14:0_34:1),TG(16:0_38:6),HexCer(d18:2/20:0)
+TG(16:0_32:1),TG(14:0_34:2),TG(16:0_40:6),HexCer(d18:2/22:0)
+TG(16:0_32:2),TG(14:0_34:3),TG(16:0_40:7),HexCer(d18:2/23:0)
+TG(16:0_32:3),TG(14:0_35:1),TG(16:0_40:8),HexCer(d18:2/24:0)
+TG(16:0_34:0),TG(14:0_35:2),TG(16:1_34:1),TG(14:0_32:2)
+TG(16:0_34:1),TG(14:0_36:1),TG(16:1_34:2),TG(14:0_34:0)
+TG(16:0_34:2),TG(14:0_36:2),TG(16:1_34:3),TG(14:0_34:1)
+TG(16:0_34:3),TG(14:0_36:3),TG(16:1_36:2),TG(14:0_34:2)
+TG(16:0_34:4),TG(14:0_36:4),TG(16:1_36:3),TG(14:0_34:3)
+TG(16:0_35:1),TG(14:0_38:4),TG(16:1_36:4),TG(14:0_35:1)
+TG(16:0_35:2),TG(14:0_38:5),TG(16:1_36:5),TG(14:0_35:2)
+TG(16:0_35:3),TG(16:0_28:1),TG(16:1_38:3),TG(14:0_36:1)
+TG(16:0_36:2),TG(16:0_28:2),TG(16:1_38:4),TG(14:0_36:2)
+TG(16:0_36:3),TG(16:0_30:2),TG(16:1_38:5),TG(14:0_36:3)
+TG(16:0_36:4),TG(16:0_32:0),TG(17:0_36:3),TG(14:0_36:4)
+TG(16:0_36:5),TG(16:0_32:1),TG(17:0_36:4),TG(14:0_38:4)
+TG(16:0_36:6),TG(16:0_32:2),TG(17:1_36:3),TG(14:0_38:5)
+TG(16:0_38:2),TG(16:0_32:3),TG(17:1_36:4),TG(16:0_28:1)
+TG(16:0_38:3),TG(16:0_33:1),TG(18:0_34:2),TG(16:0_30:2)
+TG(16:0_38:4),TG(16:0_33:2),TG(18:0_34:3),TG(16:0_32:0)
+TG(16:0_38:5),TG(16:0_34:0),TG(18:0_36:2),TG(16:0_32:1)
+TG(16:0_38:6),TG(16:0_34:1),TG(18:0_36:3),TG(16:0_32:2)
+TG(16:0_38:7),TG(16:0_34:2),TG(18:0_36:4),TG(16:0_32:3)
+TG(16:0_40:6),TG(16:0_34:3),TG(18:0_36:5),TG(16:0_33:1)
+TG(16:0_40:7),TG(16:0_34:4),TG(18:0_38:6),TG(16:0_33:2)
+TG(16:0_40:8),TG(16:0_35:1),TG(18:1_32:0),TG(16:0_34:0)
+TG(16:1_32:1),TG(16:0_35:2),TG(18:1_32:1),TG(16:0_34:1)
+TG(16:1_32:2),TG(16:0_35:3),TG(18:1_32:2),TG(16:0_34:2)
+TG(16:1_34:0),TG(16:0_36:2),TG(18:1_32:3),TG(16:0_34:3)
+TG(16:1_34:1),TG(16:0_36:3),TG(18:1_34:1),TG(16:0_34:4)
+TG(16:1_34:2),TG(16:0_36:4),TG(18:1_34:2),TG(16:0_35:1)
+TG(16:1_34:3),TG(16:0_36:5),TG(18:1_34:3),TG(16:0_35:2)
+TG(16:1_36:1),TG(16:0_36:6),TG(18:1_34:4),TG(16:0_35:3)
+TG(16:1_36:2),TG(16:0_37:3),TG(18:1_35:2),TG(16:0_36:2)
+TG(16:1_36:3),TG(16:0_38:1),TG(18:1_35:3),TG(16:0_36:3)
+TG(16:1_36:4),TG(16:0_38:2),TG(18:1_36:1),TG(16:0_36:4)
+TG(16:1_36:5),TG(16:0_38:3),TG(18:1_36:2),TG(16:0_36:5)
+TG(16:1_38:3),TG(16:0_38:4),TG(18:1_36:3),TG(16:0_36:6)
+TG(16:1_38:4),TG(16:0_38:5),TG(18:1_36:4),TG(16:0_38:1)
+TG(16:1_38:5),TG(16:0_38:6),TG(18:1_36:5),TG(16:0_38:2)
+TG(17:0_34:1),TG(16:0_38:7),TG(18:1_36:6),TG(16:0_38:3)
+TG(17:0_34:2),TG(16:0_40:6),TG(18:1_38:5),TG(16:0_38:4)
+TG(17:0_34:3),TG(16:0_40:7),TG(18:1_38:6),TG(16:0_38:5)
+TG(17:0_36:3),TG(16:0_40:8),TG(18:1_38:7),TG(16:0_38:6)
+TG(17:0_36:4),TG(16:1_28:0),TG(18:2_30:0),TG(16:0_38:7)
+TG(17:1_34:1),TG(16:1_30:1),TG(18:2_32:0),TG(16:0_40:6)
+TG(17:1_34:2),TG(16:1_32:0),TG(18:2_32:1),TG(16:0_40:7)
+TG(17:1_34:3),TG(16:1_32:1),TG(18:2_32:2),TG(16:0_40:8)
+TG(17:1_36:3),TG(16:1_32:2),TG(18:2_33:1),TG(16:1_28:0)
+TG(17:1_36:4),TG(16:1_33:1),TG(18:2_33:2),TG(16:1_30:1)
+TG(18:0_30:1),TG(16:1_34:0),TG(18:2_34:0),TG(16:1_32:0)
+TG(18:0_32:0),TG(16:1_34:1),TG(18:2_34:1),TG(16:1_32:1)
+TG(18:0_32:1),TG(16:1_34:2),TG(18:2_34:2),TG(16:1_32:2)
+TG(18:0_32:2),TG(16:1_34:3),TG(18:2_34:3),TG(16:1_33:1)
+TG(18:0_34:2),TG(16:1_36:1),TG(18:2_34:4),TG(16:1_34:0)
+TG(18:0_34:3),TG(16:1_36:2),TG(18:2_35:1),TG(16:1_34:1)
+TG(18:0_36:2),TG(16:1_36:3),TG(18:2_35:2),TG(16:1_34:2)
+TG(18:0_36:3),TG(16:1_36:4),TG(18:2_35:3),TG(16:1_34:3)
+TG(18:0_36:4),TG(16:1_36:5),TG(18:2_36:0),TG(16:1_36:1)
+TG(18:0_36:5),TG(16:1_38:3),TG(18:2_36:1),TG(16:1_36:2)
+TG(18:0_38:6),TG(16:1_38:4),TG(18:2_36:2),TG(16:1_36:3)
+TG(18:1_26:0),TG(16:1_38:5),TG(18:2_36:3),TG(16:1_36:4)
+TG(18:1_28:1),TG(17:0_32:1),TG(18:2_36:4),TG(16:1_36:5)
+TG(18:1_30:0),TG(17:0_34:1),TG(18:2_36:5),TG(16:1_38:3)
+TG(18:1_30:1),TG(17:0_34:2),TG(18:2_38:4),TG(16:1_38:4)
+TG(18:1_30:2),TG(17:0_34:3),TG(18:2_38:5),TG(16:1_38:5)
+TG(18:1_32:0),TG(17:0_36:3),TG(18:2_38:6),TG(17:0_32:1)
+TG(18:1_32:1),TG(17:0_36:4),TG(18:3_30:0),TG(17:0_34:1)
+TG(18:1_32:2),TG(17:1_32:1),TG(18:3_32:0),TG(17:0_34:2)
+TG(18:1_32:3),TG(17:1_34:1),TG(18:3_32:1),TG(17:0_34:3)
+TG(18:1_33:0),TG(17:1_34:2),TG(18:3_34:0),TG(17:0_36:3)
+TG(18:1_33:1),TG(17:1_34:3),TG(18:3_34:1),TG(17:0_36:4)
+TG(18:1_33:2),TG(17:1_36:3),TG(18:3_34:2),TG(17:1_32:1)
+TG(18:1_34:1),TG(17:1_36:4),TG(18:3_34:3),TG(17:1_34:1)
+TG(18:1_34:2),TG(18:0_30:0),TG(18:3_36:1),TG(17:1_34:2)
+TG(18:1_34:3),TG(18:0_30:1),TG(18:3_36:2),TG(17:1_34:3)
+TG(18:1_34:4),TG(18:0_32:0),TG(18:3_36:3),TG(17:1_36:3)
+TG(18:1_35:2),TG(18:0_32:1),TG(18:3_36:4),TG(17:1_36:4)
+TG(18:1_35:3),TG(18:0_32:2),TG(18:3_38:5),TG(18:0_30:0)
+TG(18:1_36:1),TG(18:0_34:2),TG(18:3_38:6),TG(18:0_30:1)
+TG(18:1_36:2),TG(18:0_34:3),TG(20:0_32:3),TG(18:0_32:0)
+TG(18:1_36:3),TG(18:0_36:1),TG(20:0_32:4),TG(18:0_32:1)
+TG(18:1_36:4),TG(18:0_36:2),TG(20:1_32:3),TG(18:0_32:2)
+TG(18:1_36:5),TG(18:0_36:3),TG(20:1_34:0),TG(18:0_34:2)
+TG(18:1_36:6),TG(18:0_36:4),TG(20:1_34:1),TG(18:0_34:3)
+TG(18:1_38:5),TG(18:0_36:5),TG(20:1_34:2),TG(18:0_36:1)
+TG(18:1_38:6),TG(18:0_38:6),TG(20:1_34:3),TG(18:0_36:2)
+TG(18:1_38:7),TG(18:0_38:7),TG(20:2_34:1),TG(18:0_36:3)
+TG(18:2_28:0),TG(18:1_26:0),TG(20:2_34:2),TG(18:0_36:4)
+TG(18:2_30:0),TG(18:1_28:1),TG(20:2_34:3),TG(18:0_36:5)
+TG(18:2_30:1),TG(18:1_30:0),TG(20:3_32:0),TG(18:0_38:6)
+TG(18:2_31:0),TG(18:1_30:1),TG(20:3_34:0),TG(18:0_38:7)
+TG(18:2_32:0),TG(18:1_30:2),TG(20:3_34:1),TG(18:1_26:0)
+TG(18:2_32:1),TG(18:1_31:0),TG(20:3_34:2),TG(18:1_28:1)
+TG(18:2_32:2),TG(18:1_32:0),TG(20:3_34:3),TG(18:1_30:0)
+TG(18:2_33:0),TG(18:1_32:1),TG(20:3_36:3),TG(18:1_30:1)
+TG(18:2_33:1),TG(18:1_32:2),TG(20:3_36:4),TG(18:1_30:2)
+TG(18:2_33:2),TG(18:1_32:3),TG(20:4_32:0),TG(18:1_31:0)
+TG(18:2_34:0),TG(18:1_33:0),TG(20:4_32:1),TG(18:1_32:0)
+TG(18:2_34:1),TG(18:1_33:1),TG(20:4_34:0),TG(18:1_32:1)
+TG(18:2_34:2),TG(18:1_33:2),TG(20:4_34:1),TG(18:1_32:2)
+TG(18:2_34:3),TG(18:1_34:1),TG(20:4_34:2),TG(18:1_32:3)
+TG(18:2_34:4),TG(18:1_34:2),TG(20:4_34:3),TG(18:1_33:0)
+TG(18:2_35:1),TG(18:1_34:3),TG(20:4_36:2),TG(18:1_33:1)
+TG(18:2_35:2),TG(18:1_34:4),TG(20:4_36:3),TG(18:1_33:2)
+TG(18:2_35:3),TG(18:1_35:2),TG(20:4_36:4),TG(18:1_34:1)
+TG(18:2_36:0),TG(18:1_35:3),TG(20:5_34:1),TG(18:1_34:2)
+TG(18:2_36:1),TG(18:1_36:0),TG(20:5_34:2),TG(18:1_34:3)
+TG(18:2_36:2),TG(18:1_36:1),TG(20:5_36:3),TG(18:1_34:4)
+TG(18:2_36:3),TG(18:1_36:2),TG(22:4_34:2),TG(18:1_35:2)
+TG(18:2_36:4),TG(18:1_36:3),TG(22:5_34:1),TG(18:1_35:3)
+TG(18:2_36:5),TG(18:1_36:4),TG(22:5_34:2),TG(18:1_36:0)
+TG(18:2_38:4),TG(18:1_36:5),TG(22:6_32:0),TG(18:1_36:1)
+TG(18:2_38:5),TG(18:1_36:6),TG(22:6_32:1),TG(18:1_36:2)
+TG(18:2_38:6),TG(18:1_38:5),TG(22:6_34:1),TG(18:1_36:3)
+TG(18:3_30:0),TG(18:1_38:6),TG(22:6_34:2),TG(18:1_36:4)
+TG(18:3_32:0),TG(18:1_38:7),Uric acid,TG(18:1_36:5)
+TG(18:3_32:1),TG(18:2_28:0),Lactic acid,TG(18:1_36:6)
+TG(18:3_34:0),TG(18:2_30:0),3-Aminoisobutyric acid,TG(18:1_38:5)
+TG(18:3_34:1),TG(18:2_30:1),Dimethylglycine,TG(18:1_38:6)
+TG(18:3_34:2),TG(18:2_31:0),2-Hydroxybutyric acid,TG(18:1_38:7)
+TG(18:3_34:3),TG(18:2_32:0),2-Hydroxyisobutyric acid,TG(18:2_28:0)
+TG(18:3_36:1),TG(18:2_32:1),3-Hydroxybutyric acid,TG(18:2_30:0)
+TG(18:3_36:2),TG(18:2_32:2),3-Hydroxyisobutyric acid,TG(18:2_30:1)
+TG(18:3_36:3),TG(18:2_33:0),Glyceric acid,TG(18:2_31:0)
+TG(18:3_36:4),TG(18:2_33:1),Guanidoacetic acid,TG(18:2_32:0)
+TG(18:3_38:5),TG(18:2_33:2),N-Acetyl-Glycine,TG(18:2_32:1)
+TG(18:3_38:6),TG(18:2_34:0),2-Hydroxyisovaleric acid,TG(18:2_32:2)
+TG(20:0_32:3),TG(18:2_34:1),3-Hydroxyisovaleric acid,TG(18:2_33:0)
+TG(20:0_32:4),TG(18:2_34:2),5-Oxoproline,TG(18:2_33:1)
+TG(20:1_32:1),TG(18:2_34:3),Pipecolic acid,TG(18:2_33:2)
+TG(20:1_32:3),TG(18:2_34:4),N-Acetyl-Alanine,TG(18:2_34:0)
+TG(20:1_34:0),TG(18:2_35:1),2-Hydroxy-3-methylvaleric acid,TG(18:2_34:1)
+TG(20:1_34:1),TG(18:2_35:2),Phenylacetic acid,TG(18:2_34:2)
+TG(20:1_34:2),TG(18:2_35:3),Threonic acid,TG(18:2_34:3)
+TG(20:1_34:3),TG(18:2_36:0),Caprylic acid,TG(18:2_34:4)
+TG(20:2_32:0),TG(18:2_36:1),N-Acetyl-Serine,TG(18:2_35:1)
+TG(20:2_32:1),TG(18:2_36:2),4-Hydroxyphenylacetic acid,TG(18:2_35:2)
+TG(20:2_34:1),TG(18:2_36:3),N-Acetyl-Proline,TG(18:2_35:3)
+TG(20:2_34:2),TG(18:2_36:4),N-Acetyl-Valine,TG(18:2_36:0)
+TG(20:2_34:3),TG(18:2_36:5),N-Acetyl-Asparagine,TG(18:2_36:1)
+TG(20:3_32:0),TG(18:2_38:4),3-Indoleacetic acid,TG(18:2_36:2)
+TG(20:3_32:1),TG(18:2_38:5),Argininic acid,TG(18:2_36:3)
+TG(20:3_34:0),TG(18:2_38:6),Hippuric acid,TG(18:2_36:4)
+TG(20:3_34:1),TG(18:3_30:0),HPHPA,TG(18:2_36:5)
+TG(20:3_34:2),TG(18:3_32:0),N1-Acetyl-Lysine,TG(18:2_38:4)
+TG(20:3_34:3),TG(18:3_32:1),N1-Acetyl-Lysine + N6-Acetyl-Lysine,TG(18:2_38:5)
+TG(20:3_36:3),TG(18:3_34:0),Kynurenic acid,TG(18:2_38:6)
+TG(20:3_36:4),TG(18:3_34:1),Indole-3-propionic acid,TG(18:3_30:0)
+TG(20:4_30:0),TG(18:3_34:2),N-Acetyl-Methionine,TG(18:3_32:0)
+TG(20:4_32:0),TG(18:3_34:3),p-Hydroxyhippuric acid,TG(18:3_32:1)
+TG(20:4_32:1),TG(18:3_36:1),N-Acetyl-Histidine,TG(18:3_34:0)
+TG(20:4_34:0),TG(18:3_36:2),Indolelactic acid,TG(18:3_34:1)
+TG(20:4_34:1),TG(18:3_36:3),N-Acetyl-Arginine,TG(18:3_34:2)
+TG(20:4_34:2),TG(18:3_36:4),Pyruvic acid,TG(18:3_34:3)
+TG(20:4_34:3),TG(18:3_38:5),Oxalic acid,TG(18:3_36:1)
+TG(20:4_36:2),TG(20:0_32:3),Malonic acid,TG(18:3_36:2)
+TG(20:4_36:3),TG(20:0_32:4),alpha-Ketoisovaleric acid,TG(18:3_36:3)
+TG(20:4_36:4),TG(20:0_34:1),Fumaric acid,TG(18:3_36:4)
+TG(20:5_34:1),TG(20:1_30:1),Methylmalonic acid,TG(18:3_38:5)
+TG(20:5_34:2),TG(20:1_31:0),Succinic acid,TG(18:3_38:6)
+TG(20:5_36:2),TG(20:1_32:1),Phenylacetylglutamine,TG(20:0_32:3)
+TG(20:5_36:3),TG(20:1_32:2),2-oxoisocaproic acid,TG(20:0_32:4)
+TG(22:4_34:2),TG(20:1_32:3),Ethylmalonic acid,TG(20:1_26:1)
+TG(22:5_34:1),TG(20:1_34:0),Glutaric acid,TG(20:1_30:1)
+TG(22:5_34:2),TG(20:1_34:1),Malic acid,TG(20:1_32:1)
+TG(22:6_32:0),TG(20:1_34:2),2-hydroxyglutaric acid,TG(20:1_32:2)
+TG(22:6_32:1),TG(20:1_34:3),"2,5-Furandicarboxylic acid",TG(20:1_32:3)
+TG(22:6_34:1),TG(20:2_32:0),2-oxoadipic acid,TG(20:1_34:0)
+TG(22:6_34:2),TG(20:2_32:1),3-Methyladipic acid,TG(20:1_34:1)
+Xanthine,TG(20:2_34:1),3-Deoxyglucosone,TG(20:1_34:2)
+Uric acid,TG(20:2_34:2),Quinolinic acid,TG(20:1_34:3)
+p-Cresol sulfate,TG(20:2_34:3),N-Acetyl-Aspartic acid,TG(20:2_32:0)
+Propionic acid,TG(20:3_32:0),N-Acetyl-Glutamic acid,TG(20:2_32:1)
+Indoxyl sulfate,TG(20:3_32:1),CMPF,TG(20:2_34:1)
+Lactic acid,TG(20:3_32:2),alpha-Ketoglutaric acid,TG(20:2_34:2)
+Valeric acid + Isovaleric acid,TG(20:3_34:0),cis-Aconitic acid,TG(20:2_34:3)
+3-Aminoisobutyric acid,TG(20:3_34:1),Citric acid,TG(20:3_32:0)
+Dimethylglycine,TG(20:3_34:2),,TG(20:3_32:1)
+2-Hydroxybutyric acid,TG(20:3_34:3),,TG(20:3_32:2)
+2-Hydroxyisobutyric acid,TG(20:3_36:3),,TG(20:3_34:0)
+3-Hydroxybutyric acid,TG(20:3_36:4),,TG(20:3_34:1)
+3-Hydroxyisobutyric acid,TG(20:4_30:0),,TG(20:3_34:2)
+Glyceric acid,TG(20:4_32:0),,TG(20:3_34:3)
+Guanidoacetic acid,TG(20:4_32:1),,TG(20:3_36:3)
+N-Acetyl-Glycine,TG(20:4_32:2),,TG(20:3_36:4)
+2-Hydroxyisovaleric acid,TG(20:4_34:0),,TG(20:4_30:0)
+3-Hydroxyisovaleric acid,TG(20:4_34:1),,TG(20:4_32:0)
+"3,4-Dihydroxybutyric acid",TG(20:4_34:2),,TG(20:4_32:1)
+5-Oxoproline,TG(20:4_34:3),,TG(20:4_32:2)
+Pipecolic acid,TG(20:4_36:2),,TG(20:4_34:0)
+N-Acetyl-Alanine,TG(20:4_36:3),,TG(20:4_34:1)
+2-Hydroxy-3-methylvaleric acid,TG(20:4_36:4),,TG(20:4_34:2)
+Phenylacetic acid,TG(20:5_34:0),,TG(20:4_34:3)
+Threonic acid,TG(20:5_34:1),,TG(20:4_36:2)
+Caprylic acid,TG(20:5_34:2),,TG(20:4_36:3)
+N-Acetyl-Serine,TG(20:5_36:2),,TG(20:4_36:4)
+4-Hydroxyphenylacetic acid,TG(20:5_36:3),,TG(20:5_34:0)
+N-Acetyl-Proline,TG(22:4_34:2),,TG(20:5_34:1)
+N-Acetyl-Valine,TG(22:5_32:0),,TG(20:5_34:2)
+N-Acetyl-Asparagine,TG(22:5_34:1),,TG(20:5_36:2)
+3-Indoleacetic acid,TG(22:5_34:2),,TG(20:5_36:3)
+Argininic acid,TG(22:6_32:0),,TG(22:4_34:2)
+Hippuric acid,TG(22:6_32:1),,TG(22:5_32:0)
+HPHPA,TG(22:6_34:1),,TG(22:5_34:1)
+N1-Acetyl-Lysine,TG(22:6_34:2),,TG(22:5_34:2)
+N1-Acetyl-Lysine + N6-Acetyl-Lysine,Uric acid,,TG(22:6_32:0)
+Kynurenic acid,p-Cresol sulfate,,TG(22:6_32:1)
+Indole-3-propionic acid,Propionic acid,,TG(22:6_34:1)
+p-Hydroxyhippuric acid,Lactic acid,,TG(22:6_34:2)
+N-Acetyl-Histidine,3-Aminoisobutyric acid,,Xanthine
+Indolelactic acid,Dimethylglycine,,Uric acid
+Pyruvic acid,2-Hydroxybutyric acid,,p-Cresol sulfate
+Oxalic acid,2-Hydroxyisobutyric acid,,Propionic acid
+Malonic acid,3-Hydroxybutyric acid,,Butyric acid + Isobutyric acid
+alpha-Ketoisovaleric acid,3-Hydroxyisobutyric acid,,Lactic acid
+Fumaric acid,Glyceric acid,,Valeric acid + Isovaleric acid
+Methylmalonic acid,Guanidoacetic acid,,3-Aminoisobutyric acid
+Succinic acid,N-Acetyl-Glycine,,Dimethylglycine
+Phenylacetylglutamine,2-Hydroxyisovaleric acid,,2-Hydroxybutyric acid
+2-oxoisocaproic acid,3-Hydroxyisovaleric acid,,2-Hydroxyisobutyric acid
+Ethylmalonic acid,5-Oxoproline,,3-Hydroxybutyric acid
+Glutaric acid,Pipecolic acid,,3-Hydroxyisobutyric acid
+Malic acid,N-Acetyl-Alanine,,Glyceric acid
+2-hydroxyglutaric acid,2-Hydroxy-3-methylvaleric acid,,Guanidoacetic acid
+Tartaric acid,Phenylacetic acid,,N-Acetyl-Glycine
+"2,5-Furandicarboxylic acid",Threonic acid,,2-Hydroxyisovaleric acid
+2-oxoadipic acid,Caprylic acid,,3-Hydroxyisovaleric acid
+3-Methyladipic acid,N-Acetyl-Serine,,5-Oxoproline
+3-Deoxyglucosone,4-Hydroxyphenylacetic acid,,Pipecolic acid
+Quinolinic acid,N-Acetyl-Proline,,N-Acetyl-Alanine
+N-Acetyl-Aspartic acid,N-Acetyl-Asparagine,,2-Hydroxy-3-methylvaleric acid
+N-Acetyl-Glutamic acid,3-Indoleacetic acid,,Phenylacetic acid
+CMPF,Argininic acid,,Threonic acid
+alpha-Ketoglutaric acid,Hippuric acid,,Caprylic acid
+cis-Aconitic acid,N1-Acetyl-Lysine,,N-Acetyl-Serine
+Citric acid,N1-Acetyl-Lysine + N6-Acetyl-Lysine,,4-Hydroxyphenylacetic acid
+,Kynurenic acid,,N-Acetyl-Proline
+,Indole-3-propionic acid,,N-Acetyl-Valine
+,N-Acetyl-Histidine,,N-Acetyl-Asparagine
+,Indolelactic acid,,3-Indoleacetic acid
+,Pyruvic acid,,Argininic acid
+,Oxalic acid,,Hippuric acid
+,Malonic acid,,HPHPA
+,alpha-Ketoisovaleric acid,,N1-Acetyl-Lysine
+,Fumaric acid,,N1-Acetyl-Lysine + N6-Acetyl-Lysine
+,Methylmalonic acid,,Kynurenic acid
+,Succinic acid,,Indole-3-propionic acid
+,Phenylacetylglutamine,,p-Hydroxyhippuric acid
+,2-oxoisocaproic acid,,N-Acetyl-Histidine
+,Ethylmalonic acid,,Indolelactic acid
+,Glutaric acid,,N-Acetyl-Arginine
+,Malic acid,,Pyruvic acid
+,2-hydroxyglutaric acid,,Oxalic acid
+,2-oxoadipic acid,,alpha-Ketoisovaleric acid
+,3-Methyladipic acid,,Fumaric acid
+,3-Deoxyglucosone,,Methylmalonic acid
+,Quinolinic acid,,Succinic acid
+,N-Acetyl-Aspartic acid,,Phenylacetylglutamine
+,N-Acetyl-Glutamic acid,,2-oxoisocaproic acid
+,CMPF,,Ethylmalonic acid
+,alpha-Ketoglutaric acid,,Glutaric acid
+,cis-Aconitic acid,,Malic acid
+,Citric acid,,2-hydroxyglutaric acid
+,,,2-oxoadipic acid
+,,,3-Methyladipic acid
+,,,3-Deoxyglucosone
+,,,Quinolinic acid
+,,,N-Acetyl-Aspartic acid
+,,,N-Acetyl-Glutamic acid
+,,,CMPF
+,,,alpha-Ketoglutaric acid
+,,,cis-Aconitic acid
+,,,Citric acid
